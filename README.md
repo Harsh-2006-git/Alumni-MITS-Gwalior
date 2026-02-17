@@ -9,9 +9,9 @@
   <p>
     <a href="#features">Features</a> •
     <a href="#tech-stack">Tech Stack</a> •
-    <a href="#getting-started">Getting Started</a> •
-    <a href="#screenshots">Screenshots</a> •
-    <a href="#contributing">Contributing</a>
+    <a href="#project-structure">Architecture</a> •
+    <a href="#screenshots">Gallery</a> •
+    <a href="#contact">Contact</a>
   </p>
 
   <br />
@@ -46,111 +46,99 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Dynamic Tech Stack
 
-This project works with the following technologies:
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### **Tools & Services**
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## ⚡ Getting Started
-
-Follow these steps to set up the project locally.
-
-### Prerequisites
-*   Node.js (v14 or higher)
-*   MongoDB (Local or Atlas URL)
-*   NPM or Yarn
-
-### Installation
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/alumni-connect.git
-    cd alumni-connect
-    ```
-
-2.  **Backend Setup**
-    ```bash
-    cd backend
-    npm install
-    ```
-    *   Create a `.env` file in the `backend` directory and add your variables (PORT, MONGO_URI, JWT_SECRET, CLOUDINARY_URL, etc.).
-    *   Start the server:
-    ```bash
-    npm run dev
-    ```
-
-3.  **Frontend Setup**
-    ```bash
-    cd ../frontend
-    npm install
-    ```
-    *   Create a `.env` file in the `frontend` directory:
-        ```env
-        VITE_API_BASE_URL=http://localhost:3001
-        ```
-    *   Start the application:
-    ```bash
-    npm run dev
-    ```
-
-4.  **Access the App**
-    *   Open your browser and navigate to `http://localhost:5173`
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <!-- Check Features - You can replace these with actual image links -->
-  <img src="https://placehold.co/600x400/1e293b/FFF?text=Dashboard+UI" alt="Dashboard" width="45%" />
-  <img src="https://placehold.co/600x400/1e293b/FFF?text=Alumni+Directory" alt="Directory" width="45%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://placehold.co/600x400/1e293b/FFF?text=Job+Portal" alt="Jobs" width="45%" />
-  <img src="https://placehold.co/600x400/1e293b/FFF?text=Chat+Interface" alt="Chat" width="45%" />
+<div align="center" style="overflow: hidden;">
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" hspace="10" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" hspace="10" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" hspace="10" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" hspace="10" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" hspace="10" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="SocketIO" hspace="10" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" hspace="10" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" hspace="10" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" hspace="10" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" hspace="10" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" hspace="10" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" hspace="10" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" hspace="10" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" hspace="10" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" hspace="10" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" hspace="10" />
+</marquee>
 </div>
 
 ---
 
-## 🤝 Contributing
+## 📂 Project Structure
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+A high-level overview of the application's architecture to help you navigate the codebase.
 
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
+```bash
+Alumni-Platform/
+├── 📂 backend/                  # Server-side logic
+│   ├── 📂 config/               # DB & Cloudinary configs
+│   ├── 📂 controller/           # Route logic (Auth, User, Event, etc.)
+│   ├── 📂 middlewares/          # Auth, Validation, Error Handling
+│   ├── 📂 models/               # Mongoose Schemas (User, Job, Event)
+│   ├── 📂 routes/               # API Endpoints
+│   ├── 📂 services/             # Email & Utility services
+│   ├── 📂 socket/               # Real-time connection handlers
+│   └── 📄 index.js              # Entry point
+│
+├── 📂 frontend/                 # Client-side application
+│   ├── 📂 public/               # Static assets
+│   ├── 📂 src/
+│   │   ├── 📂 components/       # Reusable UI components (Header, Footer, Cards)
+│   │   ├── 📂 context/          # Context API (Theme, Auth, Socket)
+│   │   ├── 📂 pages/            # Page components
+│   │   │   ├── 📂 admin/        # Admin Dashboard & Management
+│   │   │   ├── 📄 Home.jsx      # Landing Page
+│   │   │   ├── 📄 Dashboard.jsx # User Dashboard
+│   │   │   └── ...              # 30+ other specialized pages
+│   │   ├── 📄 App.jsx           # Main Router
+│   │   └── 📄 main.jsx          # React Entry
+│   └── 📄 vite.config.js        # Build configuration
+│
+└── 📄 README.md                 # Project Documentation
+```
+
+---
+
+## 📸 Gallery
+
+<div align="center">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Dashboard+UI" alt="Dashboard" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Alumni+Directory" alt="Directory" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Job+Portal" alt="Jobs" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Chat+Interface" alt="Chat" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+</div>
+
+---
+
+## 💡 Have an Idea?
+
+This project is currently maintained internally. However, innovation works best when shared! If you have a feature request, a new idea, or want to integrate something new:
+
+**Please contact the admin directly.**
+
+> *We represent the bridge between innovation and execution.*
 
 ---
 
 ## 📞 Contact
 
-**Project Admin** - [Harsh Manmode](mailto:harshmanmode79@gmail.com)
-
-Project Link: [https://alumni.mitsgwalior.in/](https://alumni.mitsgwalior.in/)
+**Project Admin** - **Harsh Manmode**
+*   📧 Email: [harshmanmode79@gmail.com](mailto:harshmanmode79@gmail.com)
+*   🌐 Website: [https://alumni.mitsgwalior.in/](https://alumni.mitsgwalior.in/)
 
 <div align="center">
   <br />
-  <p>Made with ❤️ by your Harsh Manmode(IT)</p>
+  <p>Made with ❤️ by <strong>Harsh Manmode (IT)</strong></p>
+  <p>© 2026 Alumni Connect Platform. All Rights Reserved.</p>
 </div>
