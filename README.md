@@ -6,15 +6,6 @@
     <strong>Bridge the gap between past and present. Connect, Mentor, Grow.</strong>
   </p>
 
-  <p>
-    <a href="#features">Features</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#project-structure">Architecture</a> •
-    <a href="#screenshots">Gallery</a> •
-    <a href="#contact">Contact</a>
-  </p>
-
-
 </div>
 
 <br />
