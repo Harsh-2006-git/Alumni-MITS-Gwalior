@@ -14,11 +14,6 @@
     <a href="#contact">Contact</a>
   </p>
 
-  <br />
-
-  ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
-  ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
 
 </div>
 
@@ -27,6 +22,9 @@
 ## 🚀 Overview
 
 **Alumni Connect** is a comprehensive platform designed to foster a vibrant community between alumni, students, and faculty. It facilitates networking, mentorship, job opportunities, and event management in a seamless, modern digital environment. Built with the MERN stack and Supercharged with real-time capabilities.
+
+---
+<img width="1895" height="904" alt="image" src="https://github.com/user-attachments/assets/55d12850-02d0-4e5c-a835-7cbcfe28b699" />
 
 ---
 
