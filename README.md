@@ -1,0 +1,2 @@
+# Alumni-MITS---Official-Alumni-portal-for-MITS-Gwalior
+Alumni networking platform supporting 1,000+ users with real-time chat and mentorship. Includes a full-featured admin dashboard deployed on the college’s official domain, Google OAuth 2.0 authentication for secure sign-in and a real-time messaging system. The platform provides events, fundraising, job postings, blogging, mentorship, networking
