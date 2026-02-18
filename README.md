@@ -99,37 +99,33 @@ Alumni-Platform/
 ## 📸 Gallery
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 1200px; margin: 0 auto;">
-  <!-- Row 1 -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
   <img src="https://github.com/user-attachments/assets/c797b9ff-d85f-4aff-9ea2-6b106159d2f3" alt="Dashboard"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <img src="https://github.com/user-attachments/assets/0d54bb36-b202-4599-92fa-633f10873345" alt="Directory"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-  <!-- Row 2 -->
   <img src="https://github.com/user-attachments/assets/e53cb222-1ab9-4fdf-a790-0ad72b64d42e" alt="Jobs"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <img src="https://github.com/user-attachments/assets/814044a5-5e83-46b2-afac-fa98fe65ca73" alt="Chat"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-  <!-- Row 3 -->
   <img src="https://github.com/user-attachments/assets/7f1995e3-3c96-4f67-80c1-92ebd7a191eb" alt="Jobs"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <img src="https://github.com/user-attachments/assets/5488da65-7d4b-4efb-a6b1-7ad738124e71" alt="Chat"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-  <!-- Row 4 -->
   <img src="https://github.com/user-attachments/assets/79e0a92e-d059-4e1b-b85c-38d9f375f231" alt="Jobs"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <img src="https://github.com/user-attachments/assets/7de17dd6-c8fc-4faf-a3b2-8f955ee6414a" alt="Chat"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-  <!-- Row 5 -->
   <img src="https://github.com/user-attachments/assets/947bcd78-522f-46a8-87e8-376fc5df5b15" alt="Jobs"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <img src="https://github.com/user-attachments/assets/a545e0ec-ab1a-411b-b386-3f3b028a14a8" alt="Chat"
-       style="flex: 1 1 calc(50% - 10px); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
+
 
 ---
 
