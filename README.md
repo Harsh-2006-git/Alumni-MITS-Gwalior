@@ -10,9 +10,7 @@
 
 
 ## 🚀 Overview
-
-**Alumni Connect** is a comprehensive platform designed to foster a vibrant community between alumni, students, and faculty. It facilitates networking, mentorship, job opportunities, and event management in a seamless, modern digital environment. Built with the MERN stack and Supercharged with real-time capabilities.
-
+Alumni Connect is a platform that brings together alumni, students, and faculty. It helps with networking, finding mentors, job opportunities, and managing events. Built with the MERN stack, it also supports real-time updates for smooth communication.
 ---
 <img width="1895" height="904" alt="Screenshot 2026-02-18 013308" src="https://github.com/user-attachments/assets/4c0a0775-b85b-47fd-b825-517a9ae81b7c" />
 
