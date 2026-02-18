@@ -105,6 +105,14 @@ Alumni-Platform/
     <img src="https://placehold.co/600x400/1e293b/FFF?text=Job+Portal" alt="Jobs" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <img src="https://placehold.co/600x400/1e293b/FFF?text=Chat+Interface" alt="Chat" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </div>
+   <div style="display: flex; justify-content: space-between;">
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Job+Portal" alt="Jobs" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Chat+Interface" alt="Chat" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+   <div style="display: flex; justify-content: space-between;">
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Job+Portal" alt="Jobs" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://placehold.co/600x400/1e293b/FFF?text=Chat+Interface" alt="Chat" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
 </div>
 
 ---
