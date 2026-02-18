@@ -10,7 +10,7 @@
 
 
 ## 🚀 Overview
-<div align="center" style="max-width: 900px; margin: 20px auto; line-height: 1.6; font-size: 1.1rem; color: #333;">
+<div  style="max-width: 900px; margin: 20px auto; line-height: 1.6; font-size: 1.1rem; color: #333;">
   <p>
     <strong>Alumni Connect</strong> is a platform that brings together alumni, students, and faculty. 
     It helps with <strong>networking</strong>, <strong>finding mentors</strong>, <strong>job opportunities</strong>, 
