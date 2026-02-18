@@ -98,7 +98,9 @@ Alumni-Platform/
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <img src="https://placehold.co/600x400/1e293b/FFF?text=Dashboard+UI" alt="Dashboard" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://github.com/user-attachments/assets/c797b9ff-d85f-4aff-9ea2-6b106159d2f3" alt="Dashboard" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    
+
     <img src="https://placehold.co/600x400/1e293b/FFF?text=Alumni+Directory" alt="Directory" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </div>
   <div style="display: flex; justify-content: space-between;">
