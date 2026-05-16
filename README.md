@@ -69,6 +69,7 @@
 
 ## 📂 Project Structure
 
+⚠️ Note: The production source code is maintained in a private repository for security and institutional confidentiality.  
 A high-level overview of the application's architecture to help you navigate the codebase.
 
 ```bash
@@ -104,7 +105,6 @@ Alumni-Platform/
 
 ## 📸 Gallery
 
-## 📸 Gallery
 
 <table>
   <tr>
@@ -146,6 +146,26 @@ This project is currently maintained internally. However, innovation works best 
 > *We represent the bridge between innovation and execution.*
 
 ---
+
+
+<details>
+<summary>🚫 Source Code Notice (Click to Expand)</summary>
+
+<br>
+
+> The complete production codebase for this platform is maintained in a **private repository** due to institutional security, deployment policies, and confidentiality requirements.
+>
+> This public repository is intended only for:
+> - Project showcase
+> - Architecture overview
+> - Feature demonstration
+> - UI previews and documentation
+
+</details>
+
+
+---
+
 
 ## 📞 Contact
 
