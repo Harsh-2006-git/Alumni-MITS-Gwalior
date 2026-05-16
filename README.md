@@ -104,59 +104,36 @@ Alumni-Platform/
 
 ## 📸 Gallery
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  max-width: 1200px;
-  margin: 30px auto;
-">
+## 📸 Gallery
 
-  <img src="https://github.com/user-attachments/assets/c797b9ff-d85f-4aff-9ea2-6b106159d2f3"
-       alt="Dashboard"
-       style="
-         width: 100%;
-         height: 280px;
-         object-fit: cover;
-         border-radius: 14px;
-         box-shadow: 0 6px 15px rgba(0,0,0,0.15);
-         transition: transform 0.3s ease;
-       " />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c797b9ff-d85f-4aff-9ea2-6b106159d2f3" width="100%" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0d54bb36-b202-4599-92fa-633f10873345" width="100%" />
+    </td>
+  </tr>
 
-  <img src="https://github.com/user-attachments/assets/0d54bb36-b202-4599-92fa-633f10873345"
-       alt="Directory"
-       style="
-         width: 100%;
-         height: 280px;
-         object-fit: cover;
-         border-radius: 14px;
-         box-shadow: 0 6px 15px rgba(0,0,0,0.15);
-         transition: transform 0.3s ease;
-       " />
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e53cb222-1ab9-4fdf-a790-0ad72b64d42e" width="100%" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/814044a5-5e83-46b2-afac-fa98fe65ca73" width="100%" />
+    </td>
+  </tr>
 
-  <img src="https://github.com/user-attachments/assets/e53cb222-1ab9-4fdf-a790-0ad72b64d42e"
-       alt="Jobs"
-       style="
-         width: 100%;
-         height: 280px;
-         object-fit: cover;
-         border-radius: 14px;
-         box-shadow: 0 6px 15px rgba(0,0,0,0.15);
-         transition: transform 0.3s ease;
-       " />
-
-  <img src="https://github.com/user-attachments/assets/814044a5-5e83-46b2-afac-fa98fe65ca73"
-       alt="Chat"
-       style="
-         width: 100%;
-         height: 280px;
-         object-fit: cover;
-         border-radius: 14px;
-         box-shadow: 0 6px 15px rgba(0,0,0,0.15);
-         transition: transform 0.3s ease;
-       " />
-
-</div>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7f1995e3-3c96-4f67-80c1-92ebd7a191eb" width="100%" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5488da65-7d4b-4efb-a6b1-7ad738124e71" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
